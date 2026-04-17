@@ -241,3 +241,20 @@ ON rs.issued_id = ist.issued_id
 WHERE rs.return_id IS NULL;
 ```
 
+## 📈 Key Insights
+
+* Most book issues are concentrated in a few popular categories, showing higher demand for specific genres.
+* SQL joins helped in understanding relationships between books, members, and employees.
+* Tracking issued and returned books made it easy to identify pending returns and overdue records.
+* Aggregation functions like COUNT and SUM helped in analyzing total books issued and revenue generated.
+* CTAS queries improved efficiency by creating summary tables for quick analysis.
+* Consistent practice of queries improved logical thinking more than just memorizing syntax.
+
+---
+
+## 🏁 Conclusion
+
+This project helped in building a strong foundation in SQL by working on a real-world use case. It improved my understanding of database design, relationships, and data handling. I gained hands-on experience in writing queries, performing CRUD operations, and analyzing data using SQL.
+Overall, this project enhanced my problem-solving skills and prepared me for real-world data analyst tasks and interviews.
+
+---
